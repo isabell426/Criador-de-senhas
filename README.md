@@ -1,4 +1,4 @@
-riador de Senhas
+Criador de Senhas
 Um gerador de senhas que permite criar senhas aleatórias e
 personalizadas, escolhendo o tamanho e os tipos de caracteres que serão
 utilizados.
